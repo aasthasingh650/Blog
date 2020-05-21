@@ -1,0 +1,42 @@
+#page-title{
+	text-align:center;
+}
+.div0{
+	margin-bottom: 325px;
+}
+#img1{
+	
+	width:25%;
+	height:auto;
+	float:right;
+	margin-right: 20px;
+	border:1px solid #000;
+}
+.div1{
+	background-image:url(../campus.png);
+	height:100vh;
+	/*background-size:cover;
+	background-position: center;*/	
+}
+#img2{
+	height:80vh;
+	width:220vh;
+}
+#img3{
+	height: 80vh;
+	float:left;
+	margin-right: 40px;
+}
+.div0 p{
+	margin-bottom: 50px;
+}
+.div4{
+	margin-top: 40px;
+	float: left;
+}
+#img4{
+	background-color: #ffff00;
+}
+#lastid{
+	margin-top: 80px;
+}
